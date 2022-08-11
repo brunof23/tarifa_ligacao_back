@@ -1,13 +1,13 @@
-package com.brunoferreira.projetocalculartarifa;
+package com.bruno.api.calculartarifa;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ProjetoCalcularTarifaApplication {
+public class CalcularTarifaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProjetoCalcularTarifaApplication.class, args);
+		SpringApplication.run(CalcularTarifaApplication.class, args);
 	}
 
 }
